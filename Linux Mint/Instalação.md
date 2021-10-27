@@ -3,9 +3,9 @@ Site : linuxmint.com
 Yumi - multiboot usb creator
 
 Opções de instaladores alem do Yumi:
-        - LinuxLive Usb Creator
-        - Rufus
-        - Etcher
+- LinuxLive Usb Creator
+- Rufus
+- Etcher
 Utilize um pendrive para a instalação
 
 Instalar com Yumi:
