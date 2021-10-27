@@ -31,3 +31,15 @@ Introdução Manipulação de diretório:
 - rm = remove arquivo
 
 - rm -rf = apaga em cadeia forçando isso
+
+- ls * = O parametro apos o * vai ser buscado arquivos q possuem aquilo
+
+- ls ? = posicionamento da letra
+
+- ls [a-c] = busca arquivos que tem as letras de a à c
+
+- ls {ab,bc} = busca arquivos com a combinação ab ou bc
+
+- cp ondeVem ondeVai = copia o arquivo e manda pra outro lugar
+
+- mv ondeVem ondeVai = move o arquivo
