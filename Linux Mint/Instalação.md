@@ -22,11 +22,13 @@ Instalar com Yumi:
 - Click enter na versão da instalação
 - Selecione o instalador
 - Após a instalação reinicie o computador
+
 Instalação com Etcher:
 - Abra o Etcher
 - Coloque a iso e click em flash
 - Mude o boot para o pendrive
 - Selecione o instalador
+
 Como voltar o pendrive pelo mint:
 - Abra a busca no mint
 - Escreva Syn para abrir o gerenciador de pacotes synaptic
