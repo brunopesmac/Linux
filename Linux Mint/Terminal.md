@@ -1,16 +1,33 @@
-Terminal: bash
+Introdução Manipulação de diretório:
 
-ls = lista as pastas e arquivos da pasta
+- Terminal: bash
 
-ls -l / ls --long 
+- ls = lista as pastas e arquivos da pasta
 
-cd = para mudar o diretório
+- ls -l / ls --long 
 
-cd ~ = diretorio do usuario
+- cd = para mudar o diretório
 
-mkdir = cria uma pasta
+- cd ~ = diretorio do usuario
 
-touch = cria um arquivo
+- cd / = diretorio raiz
 
-nano = editor
+- mkdir = cria uma pasta
 
+- touch = cria um arquivo
+
+- nano = editor de texto
+
+- --help = mostra os comandos
+
+- man = manual
+
+- ls pasta = mostra o que tem na pasta
+
+- cat = mostra conteúdo do arquivo
+
+- rmkir = remove pasta
+
+- rm = remove arquivo
+
+- rm -rf = apaga em cadeia forçando isso
